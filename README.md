@@ -15,10 +15,10 @@ I'm a full-stack developer who loves building things that live on the web. When 
 
 ## 📁 Current Projects
 
-![devutils](https://github.com/lennardrecke/devutils)
-![portfolio-tui](https://github.com/lennardrecke/portfolio-tui)
-![portfolio-web](https://github.com/lennardrecke/portfolio-web)
-![dotfiles](https://github.com/lennardrecke/dotfiles)
+[devutils](https://github.com/lennardrecke/devutils)
+[portfolio-tui](https://github.com/lennardrecke/portfolio-tui)
+[portfolio-web](https://github.com/lennardrecke/portfolio-web)
+[dotfiles](https://github.com/lennardrecke/dotfiles)
 
 ## 😄 Fun Facts
 
