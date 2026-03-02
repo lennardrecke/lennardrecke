@@ -15,6 +15,7 @@ I'm a full-stack developer who loves building things that live on the web. When 
 
 ## 📁 Current Projects
 
+[liteclaw](https://github.com/lennardrecke/liteclaw)
 [devutils](https://github.com/lennardrecke/devutils)
 [portfolio-tui](https://github.com/lennardrecke/portfolio-tui)
 [portfolio-web](https://github.com/lennardrecke/portfolio-web)
